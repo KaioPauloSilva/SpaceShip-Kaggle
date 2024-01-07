@@ -1,4 +1,4 @@
-# SpaceShip-Kaggle
+# SpaceShip-Kaggle 🚀
 
 Welcome to the year 2912, where your data science skills are needed to solve a cosmic mystery. We've received a transmission from four lightyears away and things aren't looking good.
 
